@@ -1,0 +1,8 @@
+
+# Devenv
+.devenv*
+devenv.local.nix
+
+obj
+lib
+bin
